@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+dist/
+build/
+
+# Firebase / Secret Keys
+serviceAccountKey.json
+*.pem
+*.key
+.env
+
+node_modules
+dist
+build
+serviceAccountKey.json
